@@ -1,0 +1,303 @@
+{
+    "Menu": {
+        "Sáng": [
+            {
+                "name": "Bún bò Huế",
+                "weight": 1,
+                "thanhPhanMonAn": [
+                    {
+                        "name": "Bún",
+                        "dinhLuongGoc": 50.0,
+                        "donGiaGoc": 1540.0,
+                        "trongSo": 0.6903456521059428,
+                        "dinhLuongDieuChinh": 34.51728260529714,
+                        "donGiaDieuChinh": 1462.8090994729318
+                    },
+                    {
+                        "name": "Rau mùi",
+                        "dinhLuongGoc": 10.0,
+                        "donGiaGoc": 2800.0,
+                        "trongSo": 0.5273651674582354,
+                        "dinhLuongDieuChinh": 5.273651674582354,
+                        "donGiaDieuChinh": 2800.0
+                    },
+                    {
+                        "name": "Nấm hương khô",
+                        "dinhLuongGoc": 5.0,
+                        "donGiaGoc": 18550.0,
+                        "trongSo": 0.7447295845312858,
+                        "dinhLuongDieuChinh": 3.723647922656429,
+                        "donGiaDieuChinh": 18550.0
+                    },
+                    {
+                        "name": "Dầu thực vật",
+                        "dinhLuongGoc": 2.0,
+                        "donGiaGoc": 4270.0,
+                        "trongSo": 0.6903456521059428,
+                        "dinhLuongDieuChinh": 1.3806913042118856,
+                        "donGiaDieuChinh": 4270.0
+                    },
+                    {
+                        "name": "Thịt bò loại I",
+                        "dinhLuongGoc": 20.0,
+                        "donGiaGoc": 17500.0,
+                        "trongSo": 0.7999830833172068,
+                        "dinhLuongDieuChinh": 15.999661666344135,
+                        "donGiaDieuChinh": 17500.0
+                    },
+                    {
+                        "name": "Gia vị",
+                        "dinhLuongGoc": 0.4,
+                        "donGiaGoc": 8750.0,
+                        "trongSo": 0.8061958225305945,
+                        "dinhLuongDieuChinh": 0.32247832901223783,
+                        "donGiaDieuChinh": 8750.0
+                    },
+                    {
+                        "name": "Thịt lợn, nạc vai",
+                        "dinhLuongGoc": 15.0,
+                        "donGiaGoc": 9566.66666666667,
+                        "trongSo": 0.6903456521059428,
+                        "dinhLuongDieuChinh": 10.355184781589141,
+                        "donGiaDieuChinh": 9566.66666666667
+                    },
+                    {
+                        "name": "Xương ống",
+                        "dinhLuongGoc": 20.0,
+                        "donGiaGoc": 3850.0,
+                        "trongSo": 0.690596558285802,
+                        "dinhLuongDieuChinh": 13.81193116571604,
+                        "donGiaDieuChinh": 3850.0
+                    },
+                    {
+                        "name": "Giò sống",
+                        "dinhLuongGoc": 10.0,
+                        "donGiaGoc": 15633.3333333333,
+                        "trongSo": 0.6383827858695793,
+                        "dinhLuongDieuChinh": 6.383827858695793,
+                        "donGiaDieuChinh": 15633.3333333333
+                    }
+                ]
+            }
+        ],
+        "Phụ sáng": [
+            {
+                "name": "Sữa chua Nutifood",
+                "weight": 1,
+                "thanhPhanMonAn": [
+                    {
+                        "name": "Sữa chua NutiFood",
+                        "dinhLuongGoc": 100.0,
+                        "donGiaGoc": 3500.0,
+                        "trongSo": 0.5931591581139951,
+                        "dinhLuongDieuChinh": 59.31591581139951,
+                        "donGiaDieuChinh": 3500.0
+                    }
+                ]
+            }
+        ],
+        "Trưa": [
+            {
+                "name": "Cơm trộn Hàn Quốc",
+                "weight": 0.6,
+                "thanhPhanMonAn": [
+                    {
+                        "name": "Gạo tẻ máy",
+                        "dinhLuongGoc": 80.0,
+                        "donGiaGoc": 770.0,
+                        "trongSo": 1.0,
+                        "dinhLuongDieuChinh": 80.0,
+                        "donGiaDieuChinh": 770.0
+                    },
+                    {
+                        "name": "Cải ngọt",
+                        "dinhLuongGoc": 20.0,
+                        "donGiaGoc": 630.0,
+                        "trongSo": 0.961065371706739,
+                        "dinhLuongDieuChinh": 19.22130743413478,
+                        "donGiaDieuChinh": 630.0
+                    }
+                ]
+            },
+            {
+                "name": "Thịt kho trứng cút ",
+                "weight": 0.2,
+                "thanhPhanMonAn": [
+                    {
+                        "name": "Hành lá",
+                        "dinhLuongGoc": 3.0,
+                        "donGiaGoc": 1260.0,
+                        "trongSo": 0.3683498681223152,
+                        "dinhLuongDieuChinh": 1.1050496043669455,
+                        "donGiaDieuChinh": 1260.0
+                    },
+                    {
+                        "name": "Trứng chim cút",
+                        "dinhLuongGoc": 35.0,
+                        "donGiaGoc": 2100.0,
+                        "trongSo": 0.48215859048232157,
+                        "dinhLuongDieuChinh": 16.875550666881256,
+                        "donGiaDieuChinh": 2100.0
+                    },
+                    {
+                        "name": "Thịt lợn, nạc vai",
+                        "dinhLuongGoc": 40.0,
+                        "donGiaGoc": 9566.66666666667,
+                        "trongSo": 0.3148586742983006,
+                        "dinhLuongDieuChinh": 12.594346971932024,
+                        "donGiaDieuChinh": 9566.66666666667
+                    }
+                ]
+            },
+            {
+                "name": "Canh chua cá Ngát",
+                "weight": 0.2,
+                "thanhPhanMonAn": [
+                    {
+                        "name": "Cà chua",
+                        "dinhLuongGoc": 15.0,
+                        "donGiaGoc": 840.0,
+                        "trongSo": 0.9179637426490568,
+                        "dinhLuongDieuChinh": 13.769456139735851,
+                        "donGiaDieuChinh": 840.0
+                    },
+                    {
+                        "name": "Hành lá",
+                        "dinhLuongGoc": 3.0,
+                        "donGiaGoc": 1260.0,
+                        "trongSo": 0.8676544385702984,
+                        "dinhLuongDieuChinh": 2.6029633157108956,
+                        "donGiaDieuChinh": 1260.0
+                    },
+                    {
+                        "name": "Rau mùi",
+                        "dinhLuongGoc": 2.0,
+                        "donGiaGoc": 2800.0,
+                        "trongSo": 0.7470392031699971,
+                        "dinhLuongDieuChinh": 1.4940784063399941,
+                        "donGiaDieuChinh": 2800.0
+                    },
+                    {
+                        "name": "Dứa ta",
+                        "dinhLuongGoc": 15.0,
+                        "donGiaGoc": 2100.0,
+                        "trongSo": 0.7470392031699971,
+                        "dinhLuongDieuChinh": 11.205588047549956,
+                        "donGiaDieuChinh": 2100.0
+                    },
+                    {
+                        "name": "Dầu thực vật",
+                        "dinhLuongGoc": 4.0,
+                        "donGiaGoc": 4270.0,
+                        "trongSo": 0.7645337302933344,
+                        "dinhLuongDieuChinh": 3.0581349211733375,
+                        "donGiaDieuChinh": 4270.0
+                    },
+                    {
+                        "name": "Đường kính",
+                        "dinhLuongGoc": 2.0,
+                        "donGiaGoc": 1750.0,
+                        "trongSo": 0.7470392031699971,
+                        "dinhLuongDieuChinh": 1.4940784063399941,
+                        "donGiaDieuChinh": 1750.0
+                    },
+                    {
+                        "name": "Hạt nêm Knorr",
+                        "dinhLuongGoc": 1.0,
+                        "donGiaGoc": 5755.55555555556,
+                        "trongSo": 0.7470392031699971,
+                        "dinhLuongDieuChinh": 0.7470392031699971,
+                        "donGiaDieuChinh": 5755.55555555556
+                    },
+                    {
+                        "name": "Cá Ngát",
+                        "dinhLuongGoc": 40.0,
+                        "donGiaGoc": 15400.0,
+                        "trongSo": 0.5536548957406564,
+                        "dinhLuongDieuChinh": 22.146195829626258,
+                        "donGiaDieuChinh": 15400.0
+                    }
+                ]
+            }
+        ],
+        "Chiều": [
+            {
+                "name": "Cháo cá trắm rau cải",
+                "weight": 1,
+                "thanhPhanMonAn": [
+                    {
+                        "name": "Gạo nếp cái",
+                        "dinhLuongGoc": 5.0,
+                        "donGiaGoc": 2800.0,
+                        "trongSo": 0.858494484623577,
+                        "dinhLuongDieuChinh": 4.292472423117885,
+                        "donGiaDieuChinh": 2800.0
+                    },
+                    {
+                        "name": "Gạo tẻ máy",
+                        "dinhLuongGoc": 35.0,
+                        "donGiaGoc": 770.0,
+                        "trongSo": 0.8220095066686688,
+                        "dinhLuongDieuChinh": 28.770332733403407,
+                        "donGiaDieuChinh": 770.0
+                    },
+                    {
+                        "name": "Cải xanh",
+                        "dinhLuongGoc": 30.0,
+                        "donGiaGoc": 1750.0,
+                        "trongSo": 0.9237422380853646,
+                        "dinhLuongDieuChinh": 27.71226714256094,
+                        "donGiaDieuChinh": 1750.0
+                    },
+                    {
+                        "name": "Dầu thực vật",
+                        "dinhLuongGoc": 4.0,
+                        "donGiaGoc": 4270.0,
+                        "trongSo": 0.9237422380853646,
+                        "dinhLuongDieuChinh": 3.6949689523414584,
+                        "donGiaDieuChinh": 4270.0
+                    },
+                    {
+                        "name": "Cá trắm cỏ",
+                        "dinhLuongGoc": 50.0,
+                        "donGiaGoc": 5600.0,
+                        "trongSo": 0.7320374956993092,
+                        "dinhLuongDieuChinh": 36.60187478496546,
+                        "donGiaDieuChinh": 5600.0
+                    },
+                    {
+                        "name": "Gia vị",
+                        "dinhLuongGoc": 2.0,
+                        "donGiaGoc": 8750.0,
+                        "trongSo": 1.0256251706174297,
+                        "dinhLuongDieuChinh": 2.0512503412348595,
+                        "donGiaDieuChinh": 8750.0
+                    }
+                ]
+            }
+        ],
+        "Phụ chiều": [
+            {
+                "name": "Sữa abbot Grow",
+                "weight": 1,
+                "thanhPhanMonAn": [
+                    {
+                        "name": "Sữa bột Grow Plus Nutifood",
+                        "dinhLuongGoc": 16.0,
+                        "donGiaGoc": 16333.3333333333,
+                        "trongSo": 1.0,
+                        "dinhLuongDieuChinh": 16.0,
+                        "donGiaDieuChinh": 16333.3333333333
+                    }
+                ]
+            }
+        ]
+    },
+    "type": 1,
+    "result": [
+        "Thành tiền: 21000.0 (OK)"
+    ],
+    "response": 200,
+    "giaTien": 30000,
+    "soBua": 5
+}

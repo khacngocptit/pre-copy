@@ -1,0 +1,47 @@
+{
+    "Menu": {
+        "Sáng": [
+            {
+                "name": "Mỳ cua rau cải",
+                "weight": 1
+            }
+        ],
+        "Phụ sáng": [
+            {
+                "name": "Dưa lưới vàng",
+                "weight": 1
+            }
+        ],
+        "Trưa": [
+            {
+                "name": "Cơm trắng",
+                "weight": 0.6
+            },
+            {
+                "name": "Thịt gà om nấm,",
+                "weight": 0.2
+            },
+            {
+                "name": "Lặc lè luộc",
+                "weight": 0.2
+            }
+        ],
+        "Chiều": [
+            {
+                "name": "Mỳ bò bắp cải",
+                "weight": 1
+            }
+        ],
+        "Phụ chiều": [
+            {
+                "name": "Nước cam,",
+                "weight": 1
+            }
+        ]
+    },
+    "type": 0,
+    "giaTien": [
+        21000,
+        30000
+    ]
+}

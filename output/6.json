@@ -1,0 +1,46 @@
+{
+    "Menu": {
+        "Sáng": [
+            {
+                "name": "Cháo cá nấm rơm",
+                "weight": 1
+            }
+        ],
+        "Phụ sáng": [
+            {
+                "name": "Caramen",
+                "weight": 1
+            }
+        ],
+        "Trưa": [
+            {
+                "name": "Cơm trộn Hàn quốc vị mặn",
+                "weight": 0.6
+            },
+            {
+                "name": "Thịt gà rim củ cải",
+                "weight": 0.2
+            },
+            {
+                "name": "Canh Xương sườn dưa chua",
+                "weight": 0.2
+            }
+        ],
+        "Chiều": [
+            {
+                "name": "Cháo thịt bơ cà rốt nấm hương",
+                "weight": 1
+            }
+        ],
+        "Phụ chiều": [
+            {
+                "name": "Váng sữa",
+                "weight": 1
+            }
+        ]
+    },
+    "Giá tiền ăn": [
+        21000,
+        30000
+    ]
+}

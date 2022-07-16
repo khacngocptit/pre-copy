@@ -1,0 +1,93 @@
+{
+    "Menu": {
+        "Trưa": [
+            {
+                "name": "Cơm gạo tám",
+                "weight": 0.6,
+                "thanhPhanMonAn": [
+                    {
+                        "name": "Gạo tám"
+                    }
+                ]
+            },
+            {
+                "name": "Cá basa kho tộ",
+                "weight": 0.2,
+                "thanhPhanMonAn": [
+                    {
+                        "name": "Dầu thực vật"
+                    },
+                    {
+                        "name": "Đường kính"
+                    },
+                    {
+                        "name": "Gia vị"
+                    },
+                    {
+                        "name": "Cá basa, phi lê"
+                    }
+                ]
+            },
+            {
+                "name": "Canh cải thảo thịt băm",
+                "weight": 0.2,
+                "thanhPhanMonAn": [
+                    {
+                        "name": "Dầu thực vật"
+                    },
+                    {
+                        "name": "Gia vị"
+                    },
+                    {
+                        "name": "Cải thảo"
+                    },
+                    {
+                        "name": "Thịt lợn, nạc vai"
+                    }
+                ]
+            }
+        ],
+        "Chiều": [
+            {
+                "name": "Mỳ nui sốt thịt bò",
+                "weight": 1,
+                "thanhPhanMonAn": [
+                    {
+                        "name": "Cà chua"
+                    },
+                    {
+                        "name": "Nui"
+                    },
+                    {
+                        "name": "Dầu thực vật"
+                    },
+                    {
+                        "name": "Thịt bò loại I"
+                    },
+                    {
+                        "name": "Gia vị"
+                    },
+                    {
+                        "name": "Thịt lợn, nạc vai"
+                    }
+                ]
+            }
+        ],
+        "Phụ chiều": [
+            {
+                "name": "Sữa học đường",
+                "weight": 1,
+                "thanhPhanMonAn": [
+                    {
+                        "name": "Sữa tươi Vinamilk - học đường"
+                    }
+                ]
+            }
+        ]
+    },
+    "type": 0,
+    "giaTien": [
+        10000,
+        30000
+    ]
+}

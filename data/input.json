@@ -1,0 +1,83 @@
+{
+  "Menu": {
+    "trua": [
+      {
+        "name": "Cháo gà khoai tây, cà rốt",
+        "idMonAn": "chao_ga_123",
+        "weight": 1,
+        "thanhPhanMonAn": [
+          
+          {
+            "name": "Gạo nếp cái",
+            "idThucPham": "abc_111"
+          },
+          {
+            "name": "Gạo tẻ máy",
+            "idThucPham": "abc_112"
+          },
+          {
+            "name": "Khoai tây",
+            "idThucPham": "abc_113"
+          },
+          {
+            "name": "Cà rốt (củ đỏ, vàng)",
+            "idThucPham": "abc_114"
+          },
+          {
+            "name": "Dầu thực vật",
+            "idThucPham": "abc_115"
+          
+          },
+          {
+            "name": "Gia vị",
+            "idThucPham": "abc_116"
+          },
+          {
+            "name": "Thịt gà công nghiệp, đùi(VDD)",
+            "idThucPham": "abc_117"
+          }
+        ]
+      }
+    ],
+    "chieu": [
+      {
+        "idMonAn": "bun_tom_123",
+        "name": "Bún tôm thịt rau xanh",
+        "weight": 1,
+        "thanhPhanMonAn": [
+          {
+            "name": "Bún",
+            "idThucPham": "abc_125"
+          },
+          {
+            "name": "Cải xanh",
+            "idThucPham": "abc_126"
+          },
+          {
+            "name": "Dầu thực vật",
+            "idThucPham": "abc_127"
+          },
+          {
+            "name": "Tôm lớp",
+            "idThucPham": "abc_128"
+          },
+          {
+            "name": "Gia vị",
+            "idThucPham": "abc_129"
+          },
+          {
+            "name": "Thịt lợn, nạc vai",
+            "idThucPham": "abc_130"
+          }
+
+        ]
+      }
+    ]
+    
+   
+  },
+  "type": 1,
+  "giaTien": [
+    15000, 30000
+  ]
+}

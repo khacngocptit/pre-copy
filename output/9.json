@@ -1,0 +1,46 @@
+{
+    "Menu": {
+        "Sáng": [
+            {
+                "name": "Mỳ trứng tôm thịt rau",
+                "weight": 1
+            }
+        ],
+        "Phụ sáng": [
+            {
+                "name": "Chè đậu xanh nước cốt dừa",
+                "weight": 1
+            }
+        ],
+        "Trưa": [
+            {
+                "name": "Cơm trộn Hàn Quốc",
+                "weight": 0.6
+            },
+            {
+                "name": "Cá basa thịt sốt cà chua",
+                "weight": 0.2
+            },
+            {
+                "name": "Canh chua cá",
+                "weight": 0.2
+            }
+        ],
+        "Chiều": [
+            {
+                "name": "Mỳ chũ nẫu thịt hành mùi",
+                "weight": 1
+            }
+        ],
+        "Phụ chiều": [
+            {
+                "name": "Sữa hạt điều, óc chó yến mạch",
+                "weight": 1
+            }
+        ]
+    },
+    "Giá tiền ăn": [
+        21000,
+        30000
+    ]
+}

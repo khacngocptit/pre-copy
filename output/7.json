@@ -1,0 +1,46 @@
+{
+    "Menu": {
+        "Sáng": [
+            {
+                "name": "Cháo gà nấm rơm",
+                "weight": 1
+            }
+        ],
+        "Phụ sáng": [
+            {
+                "name": "Nước ép dứa",
+                "weight": 1
+            }
+        ],
+        "Trưa": [
+            {
+                "name": "Cơm trộn Hàn quốc vị mặn",
+                "weight": 0.6
+            },
+            {
+                "name": "Cá ngát chiên sốt cà chua",
+                "weight": 0.2
+            },
+            {
+                "name": "Canh thịt nấu rau mồng tơi",
+                "weight": 0.2
+            }
+        ],
+        "Chiều": [
+            {
+                "name": "Cháo cá rô đồng",
+                "weight": 1
+            }
+        ],
+        "Phụ chiều": [
+            {
+                "name": "Váng sữa",
+                "weight": 1
+            }
+        ]
+    },
+    "Giá tiền ăn": [
+        21000,
+        30000
+    ]
+}

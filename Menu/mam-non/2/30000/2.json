@@ -1,0 +1,213 @@
+{
+  "Menu": {
+    "trưa": [
+      {
+        "thanhPhanMonAn": [
+          {
+            "name": "Gạo tẻ máy",
+            "dinhLuongGoc": 80,
+            "donGiaGoc": 770,
+            "trongSo": 0.8737878627240176,
+            "dinhLuongDieuChinh": 69.90302901792141,
+            "donGiaDieuChinh": 924
+          }
+        ],
+        "name": "Cơm trắng",
+        "weight": 0.6
+      },
+      {
+        "thanhPhanMonAn": [
+          {
+            "name": "Rau mùi",
+            "loaiThucPham": "Khô",
+            "dinhLuongGoc": 3,
+            "donGiaGoc": 2800,
+            "trongSo": 1.0440167234199713,
+            "dinhLuongDieuChinh": 3.132050170259914,
+            "donGiaDieuChinh": 3360
+          },
+          {
+            "name": "Nấm hương khô",
+      
+            "loaiThucPham": "Tươi",
+            "dinhLuongGoc": 15,
+            "donGiaGoc": 18550,
+            "trongSo": 1.0440167234199713,
+            "dinhLuongDieuChinh": 15.660250851299569,
+            "donGiaDieuChinh": 22260
+          },
+          {
+            "name": "Hành lá",
+ 
+            "loaiThucPham": "Tươi",
+            "dinhLuongGoc": 3,
+            "donGiaGoc": 1260,
+            "trongSo": 1.0440167234199713,
+            "dinhLuongDieuChinh": 3.132050170259914,
+            "donGiaDieuChinh": 1512
+          },
+          {
+            "name": "Dầu thực vật",
+
+            "loaiThucPham": "Khô",
+            "dinhLuongGoc": 4,
+            "donGiaGoc": 4270,
+            "trongSo": 1.0440167234199713,
+            "dinhLuongDieuChinh": 4.176066893679885,
+            "donGiaDieuChinh": 5124
+          },
+          {
+            "name": "Gia vị",
+
+            "loaiThucPham": "Tươi",
+            "dinhLuongGoc": 2,
+            "donGiaGoc": 8750,
+            "trongSo": 1.0440167234199713,
+            "dinhLuongDieuChinh": 2.0880334468399426,
+            "donGiaDieuChinh": 10500
+          },
+          {
+            "name": "Thịt gà công nghiệp, đùi(VDD)",
+
+            "loaiThucPham": "Khô",
+            "dinhLuongGoc": 70,
+            "donGiaGoc": 7700,
+            "trongSo": 1.0440167234199713,
+            "dinhLuongDieuChinh": 73.081170639398,
+            "donGiaDieuChinh": 9240
+          }
+        ],
+        "name": "Thịt gà om nấm",
+ 
+        "weight": 0.2
+      },
+      {
+        "thanhPhanMonAn": [
+          {
+            "name": "Khoai môn",
+     
+            "loaiThucPham": "Khô",
+            "dinhLuongGoc": 30,
+            "donGiaGoc": 1680,
+            "trongSo": 1.3237808406416147,
+            "dinhLuongDieuChinh": 39.71342521924844,
+            "donGiaDieuChinh": 2016
+          },
+          {
+            "name": "Dầu thực vật",
+ 
+            "loaiThucPham": "Tươi",
+            "dinhLuongGoc": 0.4,
+            "donGiaGoc": 4270,
+            "trongSo": 1.3237808406416147,
+            "dinhLuongDieuChinh": 0.529512336256646,
+            "donGiaDieuChinh": 5124
+          },
+          {
+            "name": "Gia vị",
+ 
+            "loaiThucPham": "Khô",
+            "dinhLuongGoc": 0.4,
+            "donGiaGoc": 8750,
+            "trongSo": 1.3237808406416147,
+            "dinhLuongDieuChinh": 0.529512336256646,
+            "donGiaDieuChinh": 10500
+          },
+          {
+            "name": "Thịt lợn, nạc vai",
+
+            "loaiThucPham": "Tươi",
+            "dinhLuongGoc": 30,
+            "donGiaGoc": 9566.66666666667,
+            "trongSo": 1.3237808406416147,
+            "dinhLuongDieuChinh": 39.71342521924844,
+            "donGiaDieuChinh": 11480.000000000004
+          }
+        ],
+        "name": "Canh khoai môn nấu thịt heo",
+
+        "weight": 0.2
+      }
+    ],
+    "chiều": [
+      {
+        "thanhPhanMonAn": [
+          {
+            "name": "Gạo nếp cái",
+
+            "loaiThucPham": "Tươi",
+            "dinhLuongGoc": 5,
+            "donGiaGoc": 2800,
+            "trongSo": 1,
+            "dinhLuongDieuChinh": 5,
+            "donGiaDieuChinh": 3360
+          },
+          {
+            "name": "Gạo tẻ máy",
+
+            "loaiThucPham": "Khô",
+            "dinhLuongGoc": 40,
+            "donGiaGoc": 770,
+            "trongSo": 1,
+            "dinhLuongDieuChinh": 40,
+            "donGiaDieuChinh": 924
+          },
+          {
+            "name": "Hành lá",
+
+            "loaiThucPham": "Tươi",
+            "dinhLuongGoc": 4,
+            "donGiaGoc": 1260,
+            "trongSo": 1,
+            "dinhLuongDieuChinh": 4,
+            "donGiaDieuChinh": 1512
+          },
+          {
+            "name": "Rau mùi",
+
+            "loaiThucPham": "Khô",
+            "dinhLuongGoc": 4,
+            "donGiaGoc": 2800,
+            "trongSo": 1,
+            "dinhLuongDieuChinh": 4,
+            "donGiaDieuChinh": 3360
+          },
+          {
+            "name": "Dầu thực vật",
+            "loaiThucPham": "Tươi",
+            "dinhLuongGoc": 5,
+            "donGiaGoc": 4270,
+            "trongSo": 1,
+            "dinhLuongDieuChinh": 5,
+            "donGiaDieuChinh": 5124
+          },
+          {
+            "name": "Cá rô đồng",    
+            "loaiThucPham": "Khô",
+            "dinhLuongGoc": 45,
+            "donGiaGoc": 7000,
+            "trongSo": 1,
+            "dinhLuongDieuChinh": 45,
+            "donGiaDieuChinh": 8400
+          },
+          {
+            "name": "Gia vị",
+            "loaiThucPham": "Tươi",
+            "dinhLuongGoc": 2,
+            "donGiaGoc": 8750,
+            "trongSo": 1,
+            "dinhLuongDieuChinh": 2,
+            "donGiaDieuChinh": 10500
+          }
+        ],
+        "name": "Cháo cá rô đồng",
+        "weight": 1
+      }
+    ]
+  },
+  "type": 1,
+  "result": [
+    "Thành tiền: 21891.529533557175 (THẤP)"
+  ],
+  "response": 200
+}

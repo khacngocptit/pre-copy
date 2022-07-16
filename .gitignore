@@ -1,0 +1,5 @@
+__pycache__
+.vscode
+
+data/danh_muc_thuc_pham_goc.xlsx
+data/danh_muc_thuc_pham.xlsx

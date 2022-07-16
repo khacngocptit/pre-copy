@@ -1,0 +1,108 @@
+{
+  "Menu": {
+    "trưa": [
+      {
+        "thanhPhanMonAn": [
+          {
+            "name": "Váng sữa",
+            "idThucPham": "61a08ef087323841fd9e65ed",
+            "loaiThucPham": "Khô"
+          }
+        ],
+        "name": "Váng sữa",
+        "idMonAn": "61a08ef0d1a223694e6b3a83",
+        "weight": 0.2
+      },
+      {
+        "thanhPhanMonAn": [
+          {
+            "name": "Đậu phụ",
+            "idThucPham": "61a08ef087323841fd9e65e1",
+            "loaiThucPham": "Tươi"
+          },
+          {
+            "name": "Hành lá",
+            "idThucPham": "61a08ef087323841fd9e65e4",
+            "loaiThucPham": "Khô"
+          },
+          {
+            "name": "Dầu thực vật",
+            "idThucPham": "61a08ef087323841fd9e65e5",
+            "loaiThucPham": "Tươi"
+          },
+          {
+            "name": "Gia vị",
+            "idThucPham": "61a08ef087323841fd9e65e7",
+            "loaiThucPham": "Khô"
+          },
+          {
+            "name": "Tim lợn",
+            "idThucPham": "61a08ef087323841fd9e65e6",
+            "loaiThucPham": "Tươi"
+          },
+          {
+            "name": "Cà rốt (củ đỏ, vàng)",
+            "idThucPham": "61a08ef087323841fd9e65ea",
+            "loaiThucPham": "Khô"
+          }
+        ],
+        "name": "Tim nấu đậu mơ cà rốt",
+        "idMonAn": "61a08ef0d1a223694e6b3a76",
+        "weight": 0.8
+      }
+    ],
+    "chiều": [
+      {
+        "thanhPhanMonAn": [
+          {
+            "name": "Váng sữa",
+            "idThucPham": "61a08ef087323841fd9e65ed",
+            "loaiThucPham": "Khô"
+          }
+        ],
+        "name": "Váng sữa",
+        "idMonAn": "61a08ef0d1a223694e6b3a83",
+        "weight": 1
+      }
+    ],
+    "phụ chiều": [
+      {
+        "thanhPhanMonAn": [
+          {
+            "name": "Gạo nếp cái",
+            "idThucPham": "61a08ef087323841fd9e65dc",
+            "loaiThucPham": "Khô"
+          },
+          {
+            "name": "Gạo tẻ máy",
+            "idThucPham": "61a08ef087323841fd9e65dd",
+            "loaiThucPham": "Tươi"
+          },
+          {
+            "name": "Hành lá",
+            "idThucPham": "61a08ef087323841fd9e65df",
+            "loaiThucPham": "Khô"
+          },
+          {
+            "name": "Tim lợn",
+            "idThucPham": "61a08ef087323841fd9e65e0",
+            "loaiThucPham": "Khô"
+          },
+          {
+            "name": "Cà rốt (củ đỏ, vàng)",
+            "idThucPham": "61a08ef087323841fd9e65de",
+            "loaiThucPham": "Tươi"
+          }
+        ],
+        "name": "Cháo tim, cà rốt",
+        "idMonAn": "61a08ef0d1a223694e6b3a71",
+        "weight": 1
+      }
+    ]
+  },
+  "type": 0,
+  "giaTien": [
+    15000,
+    30000
+  ]
+}

@@ -1,0 +1,44 @@
+{
+    "Menu": {
+        "chiều": [
+            {
+                "thanhPhanMonAn": [
+                    {
+                        "name": "Váng sữa",
+                        "loaiThucPham": "Tươi"
+                    }
+                ],
+                "name": "Váng sữa",
+                "idMonAn": "625be01a2ca22544ba373adf",
+                "weight": 1
+            }
+        ],
+        
+        "trưa": [
+            {
+                "thanhPhanMonAn": [
+                    {
+                        "name": "Xương khủng long",
+                        "loaiThucPham": "Tươi"
+                    },
+                    {
+                        "name": "Chân giò lợn (bỏ xương)",
+                        "loaiThucPham": "Tươi"
+                    },
+                    {
+                        "name": "Ajingon(Hạt nêm)",
+                        "loaiThucPham": "Tươi"
+                    }
+                ],
+                "name": "Xương khủng long hầm",
+                "idMonAn": "625be0d664c68243483803f9",
+                "weight": 1
+            }   
+        ]   
+    },
+    "type": 1,
+    "giaTien": [
+        24500,
+        35000
+    ]
+}

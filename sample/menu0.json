@@ -1,0 +1,22 @@
+{
+  "Menu": {
+    "Sáng": {
+      "Bún cá hành mùi": 1
+    },
+    "Phụ sáng": {
+      "Sữa chua uống Yakult": 1
+    },
+    "Trưa": {
+      "Trứng chiên thịt băm rang": 0.2,
+      "Canh cua rau đay mùng tơi": 0.2,
+      "Cơm trắng": 0.6
+    },
+    "Chiều": {
+      "Cháo đậu hũ non và thịt rau ngót": 1
+    },
+    "Phụ chiều": {
+      "Váng sữa": 1
+    }
+  },
+  "giaTien": [15000, 30000]
+}

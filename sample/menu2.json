@@ -1,0 +1,13 @@
+{
+  "Menu": {
+    "Trưa": {
+      "Cơm trắng": 0.4,
+      "Thịt gà om nấm": 0.3,
+      "Canh khoai môn nấu thịt heo": 0.3
+    },
+    "Chiều": {
+      "Cháo cá rô đồng": 1
+    }
+  },
+  "giaTien": [20000, 30000]
+}

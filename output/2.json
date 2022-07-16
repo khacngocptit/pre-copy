@@ -1,0 +1,47 @@
+{
+    "Menu": {
+        "Sáng": [
+            {
+                "name": "Phở bò truyền thống",
+                "weight": 1
+            }
+        ],
+        "Phụ sáng": [
+            {
+                "name": "Nước ép dưa hấu",
+                "weight": 1
+            }
+        ],
+        "Trưa": [
+            {
+                "name": "Cơm trộn Hàn Quốc",
+                "weight": 0.6
+            },
+            {
+                "name": "Thịt ngan om nấm",
+                "weight": 0.2
+            },
+            {
+                "name": "Canh rau đay mồng tơi mướp nấu tôm khô",
+                "weight": 0.2
+            }
+        ],
+        "Chiều": [
+            {
+                "name": "Cháo gà yến mạch",
+                "weight": 1
+            }
+        ],
+        "Phụ chiều": [
+            {
+                "name": "Chè cốm",
+                "weight": 1
+            }
+        ]
+    },
+    "type" :1,
+    "giaTien": [
+        21000,
+        30000
+    ]
+}

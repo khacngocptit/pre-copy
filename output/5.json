@@ -1,0 +1,46 @@
+{
+    "Menu": {
+        "Sáng": [
+            {
+                "name": "Cháo cá chép hành mùi",
+                "weight": 1
+            }
+        ],
+        "Phụ sáng": [
+            {
+                "name": "Sữa chua probi",
+                "weight": 1
+            }
+        ],
+        "Trưa": [
+            {
+                "name": "Cơm trắng",
+                "weight": 0.6
+            },
+            {
+                "name": "Tôm nõn rim thịt",
+                "weight": 0.2
+            },
+            {
+                "name": "Bầu xào tép",
+                "weight": 0.2
+            }
+        ],
+        "Chiều": [
+            {
+                "name": "Bún bò rau thơm",
+                "weight": 1
+            }
+        ],
+        "Phụ chiều": [
+            {
+                "name": "Nước chanh leo",
+                "weight": 1
+            }
+        ]
+    },
+    "Giá tiền ăn": [
+        21000,
+        30000
+    ]
+}

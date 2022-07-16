@@ -1,0 +1,11 @@
+{
+  "Menu": {
+    "Trưa": {
+      "Cháo gà khoai tây, cà rốt": 1
+    },
+    "Chiều": {
+      "Bún tôm thịt rau xanh": 1
+    }
+  },
+  "giaTien": [10000, 20000]
+}

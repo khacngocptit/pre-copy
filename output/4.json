@@ -1,0 +1,46 @@
+{
+    "Menu": {
+        "Sáng": [
+            {
+                "name": "Cháo thịt bò khoai lang",
+                "weight": 1
+            }
+        ],
+        "Phụ sáng": [
+            {
+                "name": "Sữa TH truemilk ít đường 110ml",
+                "weight": 1
+            }
+        ],
+        "Trưa": [
+            {
+                "name": "Cơm trộn Hàn Quốc",
+                "weight": 0.6
+            },
+            {
+                "name": "Gà om nấm",
+                "weight": 0.2
+            },
+            {
+                "name": "Mướp xào thịt lợn",
+                "weight": 0.2
+            }
+        ],
+        "Chiều": [
+            {
+                "name": "Súp bò thập cẩm",
+                "weight": 1
+            }
+        ],
+        "Phụ chiều": [
+            {
+                "name": "Sữa hạt điều, óc chó yến mạch",
+                "weight": 1
+            }
+        ]
+    },
+    "Giá tiền ăn": [
+        21000,
+        30000
+    ]
+}

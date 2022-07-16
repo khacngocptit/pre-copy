@@ -1,0 +1,46 @@
+{
+    "Menu": {
+        "Sáng": [
+            {
+                "name": "Súp trứng cút nấm hương",
+                "weight": 1
+            }
+        ],
+        "Phụ sáng": [
+            {
+                "name": "Ngũ cốc Calbee",
+                "weight": 1
+            }
+        ],
+        "Trưa": [
+            {
+                "name": "Cơm trắng gạo bắc hương",
+                "weight": 0.6
+            },
+            {
+                "name": "Thịt lợn, bò hầm khoai tây, cà rốt",
+                "weight": 0.2
+            },
+            {
+                "name": "Su su cà rốt xào thịt gà",
+                "weight": 0.2
+            }
+        ],
+        "Chiều": [
+            {
+                "name": "Súp thịt đỗ xanh bí đỏ",
+                "weight": 1
+            }
+        ],
+        "Phụ chiều": [
+            {
+                "name": "Sữa abbot Grow",
+                "weight": 1
+            }
+        ]
+    },
+    "Giá tiền ăn": [
+        21000,
+        30000
+    ]
+}

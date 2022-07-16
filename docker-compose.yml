@@ -1,0 +1,15 @@
+version: "3.5"
+
+services:
+  microservice:
+    build:
+      context: ./
+    ports:
+      - 3175:3176
+    volumes:
+      - ./:/home/app
+    restart: always
+
+volumes:
+  build_folder:
+    null
